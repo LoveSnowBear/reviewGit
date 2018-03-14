@@ -11,3 +11,5 @@ Git merge with no-ff.
 
 Git merge with fast forward.
 Git merge with no-ff
+
+Git works in friend's computer.
