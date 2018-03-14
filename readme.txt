@@ -10,3 +10,4 @@ Git add in master.
 Git merge with no-ff.
 
 Git merge with fast forward.
+Git merge with no-ff
