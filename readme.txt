@@ -10,3 +10,4 @@ create a conflict in master.
 =======
 Creating a conflict in dev.
 >>>>>>> dev
+Git add in master.
