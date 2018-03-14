@@ -5,3 +5,4 @@ Git is free software.
 Git tracks changes of files.
 Git connect remote reporitiry.
 Creating a new branch is quick.
+Creating a conflict in dev.
