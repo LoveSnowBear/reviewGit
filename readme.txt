@@ -8,3 +8,5 @@ Creating a new branch is quick.
 Creating a conflict in dev.
 Git add in master.
 Git merge with no-ff.
+
+Git merge with fast forward.
