@@ -7,3 +7,4 @@ Git connect remote reporitiry.
 Creating a new branch is quick.
 Creating a conflict in dev.
 Git add in master.
+Git merge with no-ff.
